@@ -29,7 +29,7 @@
 
 ## 해야 할 일 정리
 1. Perf Sim 분석 및 결과 공유
-   2. Perf Sim 시간 계산과 세부 측정 결과 (Latency - TTFT / TPOT, TPS)
+   1. Perf Sim 시간 계산 방법과 세부 측정 결과 (Latency - TTFT / TPOT, TPS)
 
 1. Model 경량화 후 Accuracy 측정
    1. 적용되는 Quantization Algorithm에 따라 Accuracy가 어떻게 달라지는지 확인해 본다
