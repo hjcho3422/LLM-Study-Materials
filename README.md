@@ -12,8 +12,6 @@
 
 ### 3. VLLM
 
-
-
 ### 4. LoRA
 
 
@@ -24,7 +22,10 @@
 
 
 ## 관련 자료 후보 (추후 읽어보기 대상)
-### 1. LLM Compiler - Traditonal Compiler와 어떻게 다른가? <br>
+1. Effecitve GPT-3(175B): GPT-3 파라미터 요구사항 계산과 분석 <br>(https://moon-walker.medium.com/effecitve-gpt-3-175b-gpt-3-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EA%B3%84%EC%82%B0%EA%B3%BC-%EB%B6%84%EC%84%9D-16826ddea689)
+1. Mastering Llama Math (Part-1): A Step-by-Step Guide to Counting Parameters in Llama-2 <br>(https://medium.com/@saratbhargava/mastering-llama-math-part-1-a-step-by-step-guide-to-counting-parameters-in-llama-2-b3d73bc3ae31)
+1. 
+1. LLM Compiler - Traditonal Compiler와 어떻게 다른가?
 
 
 ## 해야 할 일 정리
