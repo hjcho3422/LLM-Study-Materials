@@ -23,7 +23,8 @@
 ### 6. MOE
 
 
-
+## 관련 자료 후보 (추후 읽어보기 대상)
+### 1. LLM Compiler - Traditonal Compiler와 어떻게 다른가?
 
 
 ## 해야 할 일 정리
