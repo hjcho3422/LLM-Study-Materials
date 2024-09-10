@@ -34,3 +34,6 @@
 
 1. Model 경량화 후 Accuracy 측정
    1. 적용되는 Quantization Algorithm에 따라 Accuracy가 어떻게 달라지는지 확인해 본다
+  
+## 기타
+1. 우분투 환경 셋업 <br> https://aeong-dev.tistory.com/1
